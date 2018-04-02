@@ -55,7 +55,7 @@ body { background: white; }
 header {
    height: 54px;
    width: 100%;
-   background: #DC143C;
+   background: #0C3C5C;
    position: fixed;
    left: 0;
    top: 0;
@@ -165,7 +165,7 @@ ul#nav li.current a { color: #fff; }
 
 #index {
    padding-top: 66px;
-   background: #23292f url();
+   background: #0000FF url();
    overflow: hidden;
 }
 
