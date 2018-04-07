@@ -167,12 +167,12 @@ table {
 html { font-size: 62.5%; }
 
 body {
-   background: #f2f3f4;
+   background: #4444d5;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 10px;
    line-height: 20px;
-	color: #0b3559;
+	color: #4444d5;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -518,7 +518,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #14D0D6;
+   background: #4444d5;
    color: #fff;
 }
 
