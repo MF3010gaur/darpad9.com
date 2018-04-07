@@ -34,7 +34,7 @@ body { background: white; }
 }
 .section-head h1 {
    font: 20px/36px 'montserrat-bold', sans-serif;
-   color: #333;
+   color: #444;
    text-transform: uppercase;
    letter-spacing: 1.5px;
    margin-bottom: 12px;
@@ -55,7 +55,7 @@ body { background: white; }
 header {
    height: 54px;
    width: 100%;
-   background: #12341B;
+   background: #0C3C5C;
    position: fixed;
    left: 0;
    top: 0;
@@ -165,7 +165,7 @@ ul#nav li.current a { color: #fff; }
 
 #index {
    padding-top: 66px;
-   background: #23292f url(img/hero-bg.png);
+   background: #0000FF url();
    overflow: hidden;
 }
 
@@ -175,7 +175,7 @@ ul#nav li.current a { color: #fff; }
 (min-resolution: 192dpi) { 
     /* Retina-specific stuff here */
 	#index { 
-		background: #23292f url(img/hero-bg_@2X.png); 
+		background: #23292f url(AMAN.jpg.png); 
 		background-size: 200px 200px;
 	}
   
