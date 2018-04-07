@@ -55,7 +55,7 @@ body { background: white; }
 header {
    height: 54px;
    width: 100%;
-   background: #13171B;
+   background: #12341B;
    position: fixed;
    left: 0;
    top: 0;
@@ -170,10 +170,10 @@ ul#nav li.current a { color: #fff; }
 }
 
 /* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) { 
+    /* Retina-specific stuff here */
 	#index { 
 		background: #23292f url(img/hero-bg_@2X.png); 
 		background-size: 200px 200px;
