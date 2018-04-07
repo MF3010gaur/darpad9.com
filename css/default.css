@@ -490,13 +490,13 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 14px/24px 'montserrat-bold', sans-serif;
-   background: #11ABB0;
+   font: 12px/20px 'montserrat-bold', sans-serif;
+   background: ##8282e3;
    color: #fff;
    display: inline-block;   
 	text-decoration: none;
    letter-spacing: 0;   
-	padding: 12px 20px;
+	padding: 10px 18px;
 	margin-bottom: 18px;
    border: none;
    cursor: pointer;
