@@ -267,7 +267,7 @@ ul#nav li.current a { color: #fff; }
    font: 16px/24px 'montserrat-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
-   color: #fff;
+   color: #000000;
 }
 .fluid-video-wrapper { margin-top: 18px; }
 
