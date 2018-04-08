@@ -34,7 +34,7 @@ body { background: white; }
 }
 .section-head h1 {
    font: 20px/36px 'montserrat-bold', sans-serif;
-   color: #444;
+   color: #fff;
    text-transform: uppercase;
    letter-spacing: 1.5px;
    margin-bottom: 12px;
@@ -55,7 +55,7 @@ body { background: white; }
 header {
    height: 54px;
    width: 100%;
-   background: #0C3C5C;
+   background: #3333ff;
    position: fixed;
    left: 0;
    top: 0;
@@ -81,8 +81,8 @@ header .logo a {
 	padding: 0;
 	border: none;
 	outline: none;
-   width: 64px;
-   height: 18px;   
+   width: 200px;
+   height: 42px;   
 }
 
 /* header social */
@@ -146,7 +146,7 @@ ul#nav li a {
    line-height: 38px;
 	text-decoration: none;
    text-align: left;
-   color: #58687A;
+   color: #fff;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -165,7 +165,7 @@ ul#nav li.current a { color: #fff; }
 
 #index {
    padding-top: 66px;
-   background: #0000FF url();
+   background: #4d4dff url();
    overflow: hidden;
 }
 
@@ -185,7 +185,7 @@ ul#nav li.current a { color: #fff; }
 
 /* index Text */
 .hero-text {
-	color: #676e73;
+	color: #fff;
    width: 83%;
    text-align: center;
    margin: 54px auto 24px auto;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #fff; }
    font: 16px/24px 'montserrat-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
-   color: #222;
+   color: #000000;
 }
 .fluid-video-wrapper { margin-top: 18px; }
 
