@@ -492,7 +492,7 @@ input[type="reset"],
 input[type="button"] {
    font: 12px/20px 'montserrat-bold', sans-serif;
    background: #4d4dff;
-   color: #8282e3;
+   color: #fff;
    display: inline-block;   
 	text-decoration: none;
    letter-spacing: 0;   
